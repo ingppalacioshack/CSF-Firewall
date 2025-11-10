@@ -1,3 +1,4 @@
+---------------------------------------------------------
 OPCION 1:
 wget https://github.com/ingppalacioshack/csf/csf.tgz
 tar -zxvf csf.tgz
@@ -9,3 +10,8 @@ wget https://premiumplushost.com/download/csf.tgz
 tar -zxvf csf.tgz
 cd csf
 sh install.sh
+---------------------------------------------------------
+DESINSTALAR CSF FIREWALL
+cd /etc/csf
+sh uninstall.sh
+---------------------------------------------------------
