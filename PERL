@@ -1,4 +1,3 @@
-
 Opcional: Si no le instala el CSF puede utilizar estos comandos para instalar PERL
 sudo apt install perl -y 
 sudo dnf install perl-CPAN -y 
