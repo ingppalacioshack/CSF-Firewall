@@ -1,0 +1,11 @@
+OPCION 1:
+wget https://github.com/ingppalacioshack/csf/csf.tgz
+tar -zxvf csf.tgz
+cd csf
+sh install.sh
+---------------------------------------------------------
+OPCION 2:
+wget https://premiumplushost.com/download/csf.tgz 
+tar -zxvf csf.tgz
+cd csf
+sh install.sh
